@@ -1,0 +1,9 @@
+{
+	"name": "example",
+	"description": "An example project showcasing the cmake build wrapper",
+	"version": "1.0.0",
+	"products": [
+		"src/example",
+		"src/example_lib"
+	]
+}

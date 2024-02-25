@@ -1,0 +1,13 @@
+{
+	"name": "example",
+	"version": "1.0.0",
+	"description": "An example binary application utilizing the cmake build wrapper",
+	"type": "binary",
+	"install_artifact": true,
+	"cpp_standard": "20",
+	"source": [
+		"main.cpp"
+	],
+	"deployed_headers": [
+	]
+}
