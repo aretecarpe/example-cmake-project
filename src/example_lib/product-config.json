@@ -1,14 +1,7 @@
 {
 	"name": "example_lib",
-	"version": "1.0.0",
+	"version": "0.0.2",
 	"description": "An example static library using the cmake build wrapper.",
 	"type": "static",
-	"install_artifact": true,
-	"cpp_standard": "20",
-	"source": [
-		"example.cpp"
-	],
-	"deployed_headers": [
-		"example.h"
-	]
+	"install_artifact": true
 }
